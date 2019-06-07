@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: dev.itps.biz
+    domain: dev.vexcel-data.com
     exposer: Ingress
     http: "true"
 jenkins:
